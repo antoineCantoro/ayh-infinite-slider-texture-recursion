@@ -1,3 +1,6 @@
+uniform float uTime;
+uniform float uProgress;
+uniform vec2 uResolution;
 varying vec2 vUv;
 
 void main()
